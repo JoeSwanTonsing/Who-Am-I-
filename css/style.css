@@ -1,0 +1,48 @@
+.color_primary{
+	color: #499FEB;
+}
+
+.color_secondary{
+	color: #E649EB;
+}
+
+.color_tertiary{
+	color: #EB9549;
+}
+
+.bkg_primary{
+	background-color: #499FEB;
+}
+
+.bkg_secondary{
+	background-color: #E649EB;
+}
+
+.bkg_tertiary{
+	background-color: #EB9549;
+}
+
+@media only screen and (max-width: 700px) {
+  h1 {
+    font-size: 4rem;
+    line-height: 3.5rem;
+  }
+}
+
+a{
+	color: #EB9549;
+	transition: 0.5s;
+}
+
+a:hover {
+    color: #499FEB;
+    text-decoration: underline;
+}
+
+.social-icons a:hover {
+    background-color: #499FEB;
+}
+
+.dev-icons .list-inline-item i:hover {
+    color: #EB9549;
+}
