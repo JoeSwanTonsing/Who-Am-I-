@@ -1,5 +1,5 @@
-# resume
-My Resume
+# Who am I?
+Who is JoeSwanTonsing - Resume
 https://joeswantonsing.github.io/resume/index.html
 
 #Based On
